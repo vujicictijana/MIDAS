@@ -1,7 +1,7 @@
 # Ice-Cream-Dataset
 
 The dataset is generated from the ice-cream factory simulation environmencomposed of two modules, mixer and pasteurizer.
-The values of analog sensors for Mixer level, Pasteurizer level and Pasteurizer temperature are modified using two anomaly injection options: freezing value and step change.
+The values of analog sensors for Mixer level, Pasteurizer level and Pasteurizer temperature are modified using two anomaly injection options: freezing value and step change. The dataset is composed of 115 runs, 40 normal and 75 with anomalies. It is provided as 100 CSV files. 
 
 Columns:
 <ul>
