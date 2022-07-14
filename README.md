@@ -14,3 +14,11 @@ Columns:
   <li>Actual sensor value</li>
 </ul>
 
+Instances:
+<ul>
+  <li>Total: 799,464</li>
+  <li>Normal: 505,046</li>
+  <li>Step: 185,109</li>
+  <li>Freeze: 109,309</li>
+</ul>
+
