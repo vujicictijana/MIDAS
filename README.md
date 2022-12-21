@@ -1,5 +1,7 @@
 # MIDAS: Modular Ice-cream factory Dataset on Anomalies in Sensors
 
+<h2>Dataset</h2>
+
 <p align="justify"> The dataset is generated from the ice-cream factory simulation environmen that is composed of six modules (Mixer, Pasteurizer, Homogenizer, Aeging Cooling, Dynamic Freezer, and Hardening). The values of analog sensors for level and temperature are modified using three anomaly injection options: freezing value, step change and ramp change. The dataset is composed of 1000 runs, out of which 258 were executed without anomalies. 
  
 Files: 
@@ -44,6 +46,8 @@ Instances:
   <li>Anomalies: 18,182,644 (50.33%) </li>
 </ul>
 
+
+<h2>Experiments</h2>
 
 Repository contains code for experiments for two different problems Anomaly Detection (AD) and Anomaly Classification (AC).
 
