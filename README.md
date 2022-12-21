@@ -41,6 +41,6 @@ Instances:
 <ul>
   <li>Total: 36,124,859 </li>
   <li>Normal: 17,422,215 (49.67%)</li>
-  <li>Anomalies: 18,182,644 (50.33\%) </li>
+  <li>Anomalies: 18,182,644 (50.33%) </li>
 </ul>
 
