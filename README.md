@@ -44,3 +44,19 @@ Instances:
   <li>Anomalies: 18,182,644 (50.33%) </li>
 </ul>
 
+
+Repository contains code for experiments for two different problems Anomaly Detection (AD) and Anomaly Classification (AC).
+
+Files for experiments:
+<ul>
+ <li>1_get_data.ipynb - reads CSV files and transforms them into dataframes with 500-100-400 runs for training, validation and testing, respectively</li>
+ <li>2_DT.ipynb - Training Decision Tree and saving the model <\li>
+ <li>3_RF.ipynb - Training Random Forest with different numbers of DTs (varying from 5 to 50 with increment of 5) and saving the best model. <\li>
+ <li>4_LR.ipynb - Training Logistic Regressionand saving the model <\li>
+ <li>3_RF.ipynb - Training MultiLayer Perceptron with different numbers of neurons in the hidden layer (varying from 5 to 50 with increment of 5) and saving the best model. <\li>
+ <li>6_test.ipynb - Testing saved models <\li>
+
+</ul>
+
+
+
