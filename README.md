@@ -63,4 +63,9 @@ Files for experiments:
 </ul>
 
 
+<h3> Acknowledgment <\h3>
+This work has been partially supported by the H2020 ECSEL EU Project <a href="www.insectt.eu"> Intelligent Secure Trustable Things (InSecTT)<\a>
+and  ECSEL Joint Undertaking (JU) project <a href="https://dais-project.eu/">  Distributed Artificial Intelligent System (DAIS)<\a> . It reflects only the author’s view and the Commission is not responsible for any use that may be made of the information it contains.
+
+
 
