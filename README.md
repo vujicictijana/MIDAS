@@ -9,11 +9,11 @@ Columns:
   <li>ordinal number of instance within one run</li>
   <li>13 parameters for Mixer module</li>
   <li>8 parameters for Pasteurizer module</li>
-  <li>4 parameters for Homogenizer module<\li>
-  <li>7 parameters for AgeingCooling module<\li>
-  <li>16 parameter's for DynamicFreezing module<\li>
-  <li>6 parameters for Hardening module<\li>
-  <li>Time stamp<\li>
+  <li>4 parameters for Homogenizer module</li>
+  <li>7 parameters for AgeingCooling module</li>
+  <li>16 parameter's for DynamicFreezing module</li>
+  <li>6 parameters for Hardening module</li>
+  <li>Time stamp</li>
   <li>Anomaly type</li>
   <li>Sensor where the anomaly was injected</li>
   <li>Actual sensor value</li>
