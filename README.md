@@ -62,6 +62,11 @@ Files for experiments:
 
 </ul>
 
+<h5> Citation: </h5>
+
+Please cite the following publication when referring to MIDAS: TBD
+
+
 
 <h5> Acknowledgment </h5>
 This work has been partially supported by the H2020 ECSEL EU Project <a href="www.insectt.eu"> Intelligent Secure Trustable Things (InSecTT)</a>
