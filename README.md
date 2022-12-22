@@ -12,7 +12,8 @@ Files:
 
 Dataset division:
 <ul>
-  <li>Training: runs from 1 to 600 </li>
+  <li>Training: runs from 1 to 500 </li>
+  <li>Validation: runs from 501 to 600 </li>
   <li>Testing: runs from 601 to 1000 </li>
 </ul>
 
