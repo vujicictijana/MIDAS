@@ -65,7 +65,7 @@ Files for experiments:
 
 <h5> Citation: </h5>
 
-Please cite the following publication when referring to MIDAS: TBD
+Please cite the following publication when referring to MIDAS: Markovic, T., Leon, M., Leander, B., & Punnekkat, S. (2023). <a href="https://ieeexplore.ieee.org/document/10058956"> A Modular Ice Cream Factory Dataset on Anomalies in Sensors to Support Machine Learning Research in Manufacturing Systems</a>. IEEE Access.
 
 
 
